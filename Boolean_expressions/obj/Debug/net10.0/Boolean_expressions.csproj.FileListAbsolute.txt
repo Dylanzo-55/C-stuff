@@ -1,0 +1,15 @@
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\bin\Debug\net10.0\Boolean_expressions.exe
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\bin\Debug\net10.0\Boolean_expressions.deps.json
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\bin\Debug\net10.0\Boolean_expressions.runtimeconfig.json
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\bin\Debug\net10.0\Boolean_expressions.dll
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\bin\Debug\net10.0\Boolean_expressions.pdb
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\obj\Debug\net10.0\Boolean_expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\obj\Debug\net10.0\Boolean_expressions.AssemblyInfoInputs.cache
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\obj\Debug\net10.0\Boolean_expressions.AssemblyInfo.cs
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\obj\Debug\net10.0\Boolean_expressions.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\obj\Debug\net10.0\Boolean_expressions.sourcelink.json
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\obj\Debug\net10.0\Boolean_expressions.dll
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\obj\Debug\net10.0\refint\Boolean_expressions.dll
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\obj\Debug\net10.0\Boolean_expressions.pdb
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\obj\Debug\net10.0\Boolean_expressions.genruntimeconfig.cache
+C:\Users\dylan\OneDrive\Documents\2026 EDUVOS\Practices\C#\Csharpstuff\Evaluate Boolean expressions to make decisions in C#\C-stuff\Boolean_expressions\obj\Debug\net10.0\ref\Boolean_expressions.dll
