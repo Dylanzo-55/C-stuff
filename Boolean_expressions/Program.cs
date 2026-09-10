@@ -1,32 +1,20 @@
-﻿Console.WriteLine("Signed integral types:");
+﻿string[] pallets =["B14","A11","B12","A13"];
 
-Console.WriteLine($"sbyte  : {sbyte.MinValue} to {sbyte.MaxValue}");
-Console.WriteLine($"short  : {short.MinValue} to {short.MaxValue}");
-Console.WriteLine($"int    : {int.MinValue} to {int.MaxValue}");
-Console.WriteLine($"long   : {long.MinValue} to {long.MaxValue}");
-
-Console.WriteLine("");
-Console.WriteLine("Floating point types:");
-Console.WriteLine($"float  : {float.MinValue} to {float.MaxValue} (with ~6-9 digits of precision)");
-Console.WriteLine($"double : {double.MinValue} to {double.MaxValue} (with ~15-17 digits of precision)");
-Console.WriteLine($"decimal: {decimal.MinValue} to {decimal.MaxValue} (with 28-29 digits of precision)");
-
-/* 
-int value = (int)1.5m; // casting truncates
-Console.WriteLine(value);
-
-*/
-
-int value2 = Convert.ToInt32(1.5m); // converting rounds up
-Console.WriteLine(value2);
-
-string value = "102";
-int result = 0;
-if (int.TryParse(value, out result))
+Console.WriteLine("Sorted...");
+Array.Sort(pallets);
+foreach (string pallet in pallets) // pallet is a variable that represents each element in the pallets array
 {
-   Console.WriteLine($"Measurement: {result}");
+    Console.WriteLine(pallet);
 }
-else
+
+//* resize the array to hold 6 elements 
+
+Array.Clear(pallets, 0, 2);
+Console.WriteLine($"Clearing 2 ... count: {pallets.Length}");
+foreach (string pallet in pallets)
 {
-   Console.WriteLine("Unable to report the measurement.");
+    Console.WriteLine($"--{pallet}");
 }
+
+
+
